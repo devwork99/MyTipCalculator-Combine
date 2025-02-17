@@ -91,6 +91,7 @@
 		453C82E12CCA700B001FE3F5 /* CalculatorVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorVM.swift; sourceTree = "<group>"; };
 		453C82E42CCA7327001FE3F5 /* ResultFinal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultFinal.swift; sourceTree = "<group>"; };
 		453C82E62CCA81FB001FE3F5 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		4560A52D2D636A4C0036CE96 /* tipcal_story.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tipcal_story.png; sourceTree = "<group>"; };
 		4570CC842CD9185000C40185 /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
 		4570CC862CD924C000C40185 /* click.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = click.m4a; sourceTree = "<group>"; };
 		4570CC892CD9250800C40185 /* AudioPlayerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerService.swift; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 		45C9E7B82CAEF5AD00D9B842 /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
 		45C9E7BA2CAEF5FA00D9B842 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		45E3211C2CE6218A009373CD /* CalculatorSUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorSUI.swift; sourceTree = "<group>"; };
+		45EA63022D5A5A5D00E4AEFC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,8 @@
 		45134D902CA6C8C700B36635 = {
 			isa = PBXGroup;
 			children = (
+				45EA63022D5A5A5D00E4AEFC /* README.md */,
+				4560A52C2D636A3A0036CE96 /* Screenshots */,
 				45134D9B2CA6C8C700B36635 /* tip-calculator */,
 				45134DB22CA6C8C900B36635 /* tip-calculatorTests */,
 				45134DBC2CA6C8C900B36635 /* tip-calculatorUITests */,
@@ -263,6 +267,14 @@
 				459B52742CAD6EEA00444DF1 /* Resources */,
 			);
 			path = AppCore;
+			sourceTree = "<group>";
+		};
+		4560A52C2D636A3A0036CE96 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				4560A52D2D636A4C0036CE96 /* tipcal_story.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		4570CC882CD924F500C40185 /* Service */ = {

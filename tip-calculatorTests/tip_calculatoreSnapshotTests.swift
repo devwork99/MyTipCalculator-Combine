@@ -73,7 +73,7 @@ final class tip_calculatorSnapshotTests : XCTestCase {
         let size = CGSize(width:screenWidth, height:56)
         
         //When
-        let view = ResultView()
+        let view = SplitInputView()
         
         //Then
         assertSnapshot(matching: view, as: .image(size: size))
