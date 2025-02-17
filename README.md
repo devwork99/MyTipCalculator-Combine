@@ -6,7 +6,7 @@ App calculates the tip of the total amount
 
 ## Screen Shots
 
-### ![alt text](https://github.com/devwork99/MyTipCalculator-Combine/blob/main/tip-calculator/Screenshots/tipcal_story.png?raw=true)
+### ![alt text](https://github.com/devwork99/MyTipCalculator-Combine/blob/main/Screenshots/tipcal_story.png?raw=true)
 
 
 ###Dependency
